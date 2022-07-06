@@ -1,0 +1,20 @@
+body{
+
+
+    background-image: linear-gradient(60deg,  #19535F, #0B7A75);
+    background-repeat: no-repeat;
+    /*height: 100vh;*/
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+
+}
+
+
+.logo{
+    color: rgba(0,0,0,0.5);
+    
+}
+
